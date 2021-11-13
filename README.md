@@ -48,13 +48,13 @@ Use the direct import for faster compiling during development.
 
 **Note:** even if using base imports, unused imports are still tree shakeable by application bundlers like Rollup or webpack.
 
-```html
+```svelte no-eval
 <script>
-  import Add from "svelte-stacks-icons/lib/Add.svelte";
+  import School from "svelte-stacks-icons/lib/School.svelte";
 </script>
 ```
 
-## Rendering icons using `svelte:component`
+## Using `svelte:component`
 
 ```svelte
 <script>
