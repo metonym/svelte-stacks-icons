@@ -1,6 +1,6 @@
 # Icon Index
 
-> 304 total icons
+> 317 total icons
 
 ## Icons
 
@@ -110,6 +110,8 @@
 - FlagUnitedStates
 - Float
 - Food
+- Four
+- FourLg
 - Gear
 - GearSm
 - GitHub
@@ -212,7 +214,10 @@
 - ModeratorSm
 - Money
 - NotInterested
+- NotInterestedSm
 - Okta
+- One
+- OneLg
 - OpenSource
 - OrderedList
 - Outdent
@@ -229,6 +234,8 @@
 - PlusOne
 - PlusSm
 - PromoteDemote
+- Promoted
+- PromotedSm
 - Question
 - QuestionEs
 - QuestionPt
@@ -272,6 +279,8 @@
 - SpeechBubbleSm
 - StackExchange
 - Star
+- StarHalf
+- StarHalfSm
 - StarSm
 - StarVerified
 - StarVerifiedSm
@@ -289,6 +298,8 @@
 - Tags
 - TagsSm
 - Theme
+- Three
+- ThreeLg
 - ThumbsDown
 - ThumbsUp
 - Tool
@@ -298,6 +309,8 @@
 - TrendingNone
 - TrendingUp
 - Twitter
+- Two
+- TwoLg
 - Undo
 - UndoSm
 - Unlock

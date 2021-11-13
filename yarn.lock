@@ -70,10 +70,10 @@
     estree-walker "^1.0.1"
     picomatch "^2.2.2"
 
-"@stackoverflow/stacks-icons@^2.23.0":
-  version "2.23.0"
-  resolved "https://registry.yarnpkg.com/@stackoverflow/stacks-icons/-/stacks-icons-2.23.0.tgz#93003d8e8719318da9792690a3fd96443d87b28b"
-  integrity sha512-QjXLK3Q1wJD3sqVW0GuQaADJQxiYo5DeDKK4liJnJ99HIJQ7tm0wAWX0VlbT8XealihpgzFjHYkz9pu4CP6Lwg==
+"@stackoverflow/stacks-icons@^2.25.0":
+  version "2.25.0"
+  resolved "https://registry.yarnpkg.com/@stackoverflow/stacks-icons/-/stacks-icons-2.25.0.tgz#4287242191013b3918f0f7b47bbe14244f9514c0"
+  integrity sha512-DjsyefQoYtA03nwRrtYVxk+2LM4S+ihkhlv6oWUG2ww98mv/dqNW0627HVsQGsJaY/Rluft1LupZlcRGNCuL/Q==
 
 "@types/estree@0.0.39":
   version "0.0.39"
