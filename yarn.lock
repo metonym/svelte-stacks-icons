@@ -883,10 +883,17 @@ rollup-pluginutils@^2.8.2:
   dependencies:
     estree-walker "^0.6.1"
 
-rollup@^2.36.2, rollup@^2.56.3:
+rollup@^2.36.2:
   version "2.56.3"
   resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.56.3.tgz#b63edadd9851b0d618a6d0e6af8201955a77aeff"
   integrity sha512-Au92NuznFklgQCUcV96iXlxUbHuB1vQMaH76DHl5M11TotjOHwqk9CwcrT78+Tnv4FN9uTBxq6p4EJoYkpyekg==
+  optionalDependencies:
+    fsevents "~2.3.2"
+
+rollup@^2.60.0:
+  version "2.60.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.60.0.tgz#4ee60ab7bdd0356763f87d7099f413e5460fc193"
+  integrity sha512-cHdv9GWd58v58rdseC8e8XIaPUo8a9cgZpnCMMDGZFDZKEODOiPPEQFXLriWr/TjXzhPPmG5bkAztPsOARIcGQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
@@ -967,10 +974,10 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-svelte-check@^2.2.6:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.6.tgz#11d5e70225a616950eddd3d435d56193be687582"
-  integrity sha512-oJux/afbmcZO+N+ADXB88h6XANLie8Y2rh2qBlhgfkpr2c3t/q/T0w2JWrHqagaDL8zeNwO8a8RVFBkrRox8gg==
+svelte-check@^2.2.8:
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.8.tgz#776befcfbfaad93f38642724619a400846a04923"
+  integrity sha512-y8BmSf3v+jOoVwKY0K3wAiIt3hupLiUS4HYqXSZPXJZrChKddp+N8fyNeClsDChLt2sLUo6sOAhlnok/RJ+iIw==
   dependencies:
     chalk "^4.0.0"
     chokidar "^3.4.1"
@@ -992,10 +999,10 @@ svelte-preprocess@^4.0.0:
     detect-indent "^6.0.0"
     strip-indent "^3.0.0"
 
-svelte-readme@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.3.1.tgz#b968c11d5c3eeb0983d1e6aa30b4adc6f4b3d5c0"
-  integrity sha512-lNHP6ZesEt5cW7PQB35uSfGWIiZ33MhUXQWhd1KEP645b0LzIWUSM3Oz2Fp81xngKlvRo4sIHTIeVM1CiJsmfw==
+svelte-readme@^3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/svelte-readme/-/svelte-readme-3.6.0.tgz#8ebd8be881eebe911107fe5deaa2fa4048d42a14"
+  integrity sha512-VPaILfoxGCwPfaJN9u2qgQrHN/bI6N8d9OVrCtLpTVtuPs9/ITlr7GYZCwhg3WDJOgQz4IDf0acO39anV3pn9A==
   dependencies:
     "@rollup/plugin-node-resolve" "^11.1.0"
     "@rollup/plugin-virtual" "^2.0.3"
@@ -1017,10 +1024,10 @@ svelte@^3.42.4:
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.4.tgz#838ed98fa7b26fc5fffe4df0d7ba345f1c54cf4f"
   integrity sha512-DqC0AmDdBrrbIA+Kzl3yhBb6qCn4vZOAfxye2pTnIpinLegyagC5sLI8Pe9GPlXu9VpHBXIwpDDedpMfu++epA==
 
-svelte@^3.42.5:
-  version "3.42.5"
-  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.42.5.tgz#06c27ccdacebb4027b7a625633e7ca285bdff713"
-  integrity sha512-+y9ivcwMojAb0e87W7vR/UP7go44zc/3gtEciIMb8CUoIkUx6UJmPloBvVuO9MDXoGkUZM5SHr5PbLze9fJQVw==
+svelte@^3.44.1:
+  version "3.44.1"
+  resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.44.1.tgz#5cc772a8340f4519a4ecd1ac1a842325466b1a63"
+  integrity sha512-4DrCEJoBvdR689efHNSxIQn2pnFwB7E7j2yLEJtHE/P8hxwZWIphCtJ8are7bjl/iVMlcEf5uh5pJ68IwR09vQ==
 
 svelvg@^0.7.0:
   version "0.7.0"
