@@ -26,6 +26,12 @@ yarn add -D svelte-stacks-icons
 npm i -D svelte-stacks-icons
 ```
 
+**pnpm**
+
+```bash
+pnpm i -D svelte-stacks-icons
+```
+
 ## Usage
 
 ### Basic
