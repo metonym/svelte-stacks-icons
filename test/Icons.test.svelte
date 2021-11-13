@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { Alert, Calendar, Eye } from "../lib";
+  import { Alert, Calendar, Eye, Promoted } from "../lib";
   import Approve from "../lib/Approve.svelte";
 </script>
 
@@ -11,3 +11,5 @@
 <Eye />
 <!-- svelte-ignore missing-declaration -->
 <Approve width="30" />
+<!-- svelte-ignore missing-declaration -->
+<Promoted />
