@@ -1,6 +1,6 @@
 # Icon Index
 
-> 317 total icons
+> 320 total icons
 
 ## Icons
 
@@ -229,6 +229,9 @@
 - PeopleSm
 - Person
 - Phone
+- Placeholder
+- PlaceholderLg
+- PlaceholderSm
 - Play
 - Plus
 - PlusOne
