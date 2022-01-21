@@ -1,6 +1,6 @@
 # Icon Index
 
-> 320 total icons
+> 321 total icons
 
 ## Icons
 
@@ -99,6 +99,7 @@
 - FaceSmile
 - Facebook
 - Female
+- Figma
 - Filter
 - Fire
 - FireSm
