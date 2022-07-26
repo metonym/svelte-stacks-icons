@@ -14,21 +14,14 @@ Try it in the [Svelte REPL](https://svelte.dev/repl/cb5d02d03b96401ea0b5cbce6e3f
 
 ## Installation
 
-**Yarn**
-
-```bash
+```sh
+# Yarn
 yarn add -D svelte-stacks-icons
-```
 
-**NPM**
-
-```bash
+# npm
 npm i -D svelte-stacks-icons
-```
 
-**pnpm**
-
-```bash
+# pnpm
 pnpm i -D svelte-stacks-icons
 ```
 
