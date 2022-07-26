@@ -1,6 +1,6 @@
 # Icon Index
 
-> 321 total icons
+> 325 total icons
 
 ## Icons
 
@@ -49,6 +49,7 @@
 - Bold
 - Book
 - Bookmark
+- BookmarkAlt
 - Briefcase
 - BriefcaseSm
 - Bullhorn
@@ -78,6 +79,7 @@
 - Currency
 - DevTo
 - Diff
+- Discord
 - Document
 - DocumentAlt
 - Download
@@ -201,6 +203,7 @@
 - Mail
 - MailSm
 - Markdown
+- MarkdownPreview
 - Medal
 - Merge
 - Message
@@ -256,6 +259,7 @@
 - Reputation
 - ReputationSm
 - ReviewQueue
+- RichText
 - Rss
 - SOS
 - School
