@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.5.0](https://github.com/metonym/svelte-stacks-icons/releases/tag/v0.5.0) - 2022-07-25
 
-- upgrade `@stackoverflow/stacks-icons` to version `3.0.0` (net +4 icons)
+- upgrade `@stackoverflow/stacks-icons` to version 3.0.0 (net +4 icons)
 
 ## [0.4.1](https://github.com/metonym/svelte-stacks-icons/releases/tag/v0.4.1) - 2022-04-09
 
