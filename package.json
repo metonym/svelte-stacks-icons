@@ -15,11 +15,11 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "@stackoverflow/stacks-icons": "3.0.0",
+    "@stackoverflow/stacks-icons": "3.0.4",
     "gh-pages": "^4.0.0",
-    "rollup": "^2.77.0",
-    "svelte": "^3.49.0",
-    "svelte-check": "^2.8.0",
+    "rollup": "^2.79.0",
+    "svelte": "^3.50.0",
+    "svelte-check": "^2.9.0",
     "svelte-readme": "^3.6.3",
     "svelvg": "^0.11.2"
   },
