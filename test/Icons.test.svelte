@@ -1,5 +1,13 @@
 <script lang="ts">
-  import { Alert, Calendar, Eye, Promoted, Placeholder, Discord } from "../lib";
+  import {
+    Alert,
+    Calendar,
+    Eye,
+    Promoted,
+    Placeholder,
+    Discord,
+    MailOpen,
+  } from "../lib";
   import Approve from "../lib/Approve.svelte";
 </script>
 
@@ -10,3 +18,4 @@
 <Promoted />
 <Placeholder />
 <Discord />
+<MailOpen />

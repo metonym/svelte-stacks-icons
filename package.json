@@ -15,7 +15,7 @@
     "test": "svelte-check --workspace test"
   },
   "devDependencies": {
-    "@stackoverflow/stacks-icons": "3.0.4",
+    "@stackoverflow/stacks-icons": "3.1.0",
     "gh-pages": "^4.0.0",
     "rollup": "^2.79.0",
     "svelte": "^3.50.0",
