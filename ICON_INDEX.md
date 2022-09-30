@@ -1,6 +1,6 @@
 # Icon Index
 
-> 325 total icons
+> 327 total icons
 
 ## Icons
 
@@ -201,6 +201,8 @@
 - LogoWordmarkMd
 - LogoWordmarkSm
 - Mail
+- MailOpen
+- MailOpenSm
 - MailSm
 - Markdown
 - MarkdownPreview
