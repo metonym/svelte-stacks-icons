@@ -1,6 +1,7 @@
 <script lang="ts">
   import {
     Alert,
+    BellSm,
     Calendar,
     Eye,
     Promoted,
@@ -12,6 +13,7 @@
 </script>
 
 <Alert />
+<BellSm />
 <Calendar />
 <Eye />
 <Approve width="30" fill="red" />
