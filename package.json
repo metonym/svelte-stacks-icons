@@ -1,6 +1,6 @@
 {
   "name": "svelte-stacks-icons",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "license": "MIT",
   "description": "Stack Overflow Stacks SVG icons as Svelte components",
   "author": "Eric Liu (https://github.com/metonym)",
