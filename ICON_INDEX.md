@@ -1,6 +1,6 @@
 # Icon Index
 
-> 327 total icons
+> 324 total icons
 
 ## Icons
 
@@ -46,6 +46,7 @@
 - BadgeSm
 - Balloon
 - Bell
+- BellSm
 - Bold
 - Book
 - Bookmark
@@ -172,18 +173,11 @@
 - LogoCollectives
 - LogoCollectivesAltMd
 - LogoCollectivesMd
-- LogoEnterprise
-- LogoEnterpriseAlt
-- LogoEnterpriseAltMd
-- LogoEnterpriseWordmarkSm
 - LogoGlyph
 - LogoGlyphMd
 - LogoGlyphSm
 - LogoGlyphXSm
 - LogoGlyphXxs
-- LogoJobs
-- LogoJobsAlt
-- LogoJobsAltMd
 - LogoMd
 - LogoSE
 - LogoSEAlternativeSm
@@ -298,6 +292,7 @@
 - Stroller
 - Subway
 - Sync
+- SyncSm
 - TIL
 - Table
 - Tack
@@ -326,6 +321,8 @@
 - Unlock
 - UnlockSm
 - UnorderedList
+- Unsync
+- UnsyncSm
 - VK
 - Vacation
 - Wand
